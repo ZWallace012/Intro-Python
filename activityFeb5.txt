@@ -4,4 +4,4 @@
 
 3.A variable is a reserved memory location to store values
 
-4.A situation to use a boolean data type is a toggle button, like On/Off
+4.A situation to use a boolean data type is a toggle button, like On/Off.
