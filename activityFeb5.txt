@@ -1,0 +1,7 @@
+1. Using a TV remote to adjust the volume
+
+2.Integers represent positive or negative whole numbers, Float represents real numbers
+
+3.A variable is a reserved memory location to store values
+
+4.A situation to use a boolean data type is a toggle button, like On/Off
