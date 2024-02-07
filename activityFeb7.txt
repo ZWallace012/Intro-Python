@@ -1,0 +1,7 @@
+1. A computor program is a process of sequences of instructions
+
+2. boolean, Integers, and numeric type
+
+3. Assignment operators, Logical operators, Identity operators
+
+4.a storage place for Data
